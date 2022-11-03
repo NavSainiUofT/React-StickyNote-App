@@ -1,5 +1,8 @@
 # Sticky Note App REACT
 
+# Demo
+https://stickynotenav.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 sticknote app in progress. so far you can create sticky notes resize them and move them around
